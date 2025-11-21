@@ -1,6 +1,9 @@
 ## नमस्ते (Namaste), [AKASH here !](https://github.com/slayer-ak4sh) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slayer-ak4sh" alt="slayer-ak4sh" /> </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=I+am+Akash+Kumar+urf+DevSlayer!;Java+Full+Stack+Developer;Java+|+Spring+|+React+|+TypeScript+|+MySQL)](https://git.io/typing-svg)
+
+
 
 <h3 align="center">A passionate java full-stack developer</h3>
 
@@ -39,8 +42,8 @@
 	
 	def Ambitions():
 		createAmazingProjects()
-		prepareForCAT()
 		becomeTopFullStackAIDeveloper()
+        DSAEnthusiast()
 		# Work in progress... ;)
 	
  ```
@@ -54,5 +57,6 @@
 
 <br/><br/><br/><br/><br/>
 
-<img align="center" width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=slayer-ak4sh&theme=tokyonight" />
+<img align="center" width="98%" src="https://streak-stats.demolab.com?user=slayer-ak4sh&theme=tokyonight" />
+
 <br>
