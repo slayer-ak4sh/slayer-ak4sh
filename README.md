@@ -4,9 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=I+am+Akash+Kumar+urf+DevSlayer!;Java+Full+Stack+Developer;Java+|+Spring+|+React+|+TypeScript+|+MySQL)](https://git.io/typing-svg)
 
 
-
-<h3 align="center">A passionate java full-stack developer</h3>
-
 - 🌱 I'm currently learning **Java, Java Full-stack development**
 
 - 💬 Ask me about **trends, technologies, development, music, anime**
