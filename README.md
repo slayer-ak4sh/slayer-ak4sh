@@ -20,42 +20,39 @@
 
 ### 💻 Stack I Use:<br>
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,react,js,ts,html,css,tailwind,nodejs,aws,docker,kafka,postgres,mysql,flutter,git,github,postman,figma,ethereum,ipfs,c,cpp)](https://skillicons.dev)
- 
 <br>
 <br>
-### Who am I?
+## Who am I?
  ```java
-public class WhoAmI {
-
-    private String name = "Akash Kumar";
-    private String currentWork = "Building cool apps & mastering Java + Full Stack Dev";
-    
-    private String[] hobbies = {
-        "Thinking about new projects",
-        "Watching anime",
-        "Exploring AI tools",
-        "Improving my coding skills"
-    };
-
-    public String getCity() {
-        return "India";
-    }
-
-    public void ambitions() {
-        createAmazingProjects();
-        prepareForCAT();
-        becomeTopFullStackAIDeveloper();
-        // Work in progress... ;)
-    }
-
-    private void createAmazingProjects() {}
-    private void prepareForCAT() {}
-    private void becomeTopFullStackAIDeveloper() {}
-}
-
+ class WhoAmI {
+ 	user = 'Akash Kumar'
+	current_work = 'Building cool apps & mastering Java + Full Stack Dev'
+	hobbies = [
+			'Thinking about new projects',
+			'Watching anime',
+			'Exploring AI tools',
+			'Improving my coding skills'
+		]
+	
+	def getCity():
+		return India()
+	
+	def Ambitions():
+		createAmazingProjects()
+		prepareForCAT()
+		becomeTopFullStackAIDeveloper()
+		# Work in progress... ;)
 	
  ```
 <br>
 <br>
-<br>
+## 📊 GitHub Stats
 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slayer-ak4sh&layout=compact&theme=tokyonight" />
+
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=slayer-ak4sh&show_icons=true&theme=tokyonight" />
+
+<br/><br/><br/><br/><br/>
+
+<img align="center" width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=slayer-ak4sh&theme=tokyonight" />
+<br>
