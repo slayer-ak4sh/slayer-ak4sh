@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate java full-stack developer</h3>
 
-- 🌱 I'm currently learning **Rust, Full-stack web development**
+- 🌱 I'm currently learning **Java, Java Full-stack development**
 
 - 💬 Ask me about **trends, technologies, development, music, anime**
 
@@ -19,13 +19,13 @@
 </p>
 
 ### 💻 Stack I Use:<br>
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,react,js,ts,html,css,tailwind,nodejs,aws,docker,kafka,postgres,mysql,jwt,flutter,git,github,postman,figma,ethereum,ipfs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,react,js,ts,html,css,tailwind,nodejs,aws,docker,kafka,postgres,mysql,flutter,git,github,postman,figma,ethereum,ipfs,c,cpp)](https://skillicons.dev)
  
 <br>
 <br>
-## Who am I?
- ```python
- public class WhoAmI {
+### Who am I?
+ ```java
+public class WhoAmI {
 
     private String name = "Akash Kumar";
     private String currentWork = "Building cool apps & mastering Java + Full Stack Dev";
@@ -57,10 +57,5 @@
  ```
 <br>
 <br>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-yadav-dynamo&show_icons=true&locale=en&layout=compact" alt="yash-yadav-dynamo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-yadav-dynamo&show_icons=true&locale=en" alt="yash-yadav-dynamo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-yadav-dynamo&" alt="yash-yadav-dynamo" /></p> -->
 <br>
 
