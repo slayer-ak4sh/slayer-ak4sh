@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate java full-stack developer</h3>
 
-- 🌱 I’m currently learning **Rust, Full-stack web development**
+- 🌱 I'm currently learning **Rust, Full-stack web development**
 
 - 💬 Ask me about **trends, technologies, development, music, anime**
 
