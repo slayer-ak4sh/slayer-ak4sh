@@ -30,7 +30,7 @@
 
 ### 💻 Tech Stack I Use
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,react,js,ts,html,css,tailwind,nodejs,aws,docker,kafka,postgres,mysql,flutter,git,github,postman,figma,ethereum,ipfs,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,react,js,ts,html,css,tailwind,nodejs,aws,docker,kafka,postgres,nginx,mysql,flutter,git,github,postman,figma,ethereum,ipfs,c,cpp)](https://skillicons.dev)
 
 ---
 
