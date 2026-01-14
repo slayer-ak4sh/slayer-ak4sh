@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Waving Hello" width="100%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Digital_rain_animation_small_letters_clear.gif" alt="Classic Matrix Digital Rain" width="100%"/>
 
 # नमस्ते (Namaste) <img src="https://raw.githubusercontent.com/Afsoon/Afsoon/master/hello.gif?raw=true" width="50px" />
 
