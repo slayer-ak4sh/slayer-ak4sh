@@ -1,61 +1,89 @@
-## नमस्ते (Namaste), [AKASH here!](https://github.com/slayer-ak4sh)
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px" />
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Waving Hello" width="100%"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=slayer-ak4sh&style=flat-square" alt="slayer-ak4sh" />
+# नमस्ते (Namaste) <img src="https://raw.githubusercontent.com/Afsoon/Afsoon/master/hello.gif?raw=true" width="50px" />
+
+<p align="center">
+  <a href="https://github.com/slayer-ak4sh">
+    <img src="https://komarev.com/ghpvc/?username=slayer-ak4sh&style=flat-square&color=00FF00" alt="Profile Views"/>
+  </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=I+am+Akash+Kumar+aka+DevSlayer!;Java+Full+Stack+Developer;Java+|+Spring+|+React+|+TypeScript+|+MySQL)](https://git.io/typing-svg)
-
----
-
-- 🌱 Currently learning **Java Full-Stack & System Design**
-- 💬 Ask me about **Java, Spring, React, AI Tools & Startups**
-- 📫 Reach me at: **kumarakashjuly30@gmail.com**
-- ⚡ Fun fact: **Anime + Code = Perfect Combo 😄**
-
----
-
-### 🔗 Connect with me
-<p align="left">
-<a href="https://x.com/akash56125" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/akash-kumar30/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Akash+Kumar;aka+DevSlayer!;Java+Full+Stack+Developer;Java+%7C+Spring+%7C+React+%7C+TypeScript+%7C+MySQL;Building+Impactful+Apps+%26+Mastering+System+Design" alt="Typing SVG"/>
+  </a>
 </p>
 
 ---
 
-### 💻 Tech Stack I Use
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,react,js,ts,html,css,tailwind,nodejs,aws,docker,kafka,postgres,nginx,mysql,flutter,git,github,postman,figma,ethereum,ipfs,c,cpp)](https://skillicons.dev)
+### 🌟 About Me
+- 🌱 Currently diving deep into **Java Full-Stack Development & System Design**
+- 💬 Ask me about **Java, Spring Boot, React, AI Tools, Startups, or anything tech!**
+- 📫 How to reach me: **kumarakashjuly30@gmail.com**
+- ⚡ Fun fact: **Anime + Code = The Perfect Combo 😄** (Currently binge-watching while coding)
 
 ---
 
-## 👨‍💻 Who Am I?
+### 🔗 Connect with Me
+<p align="center">
+  <a href="https://x.com/akash56125" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/akash-kumar30/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/slayer-ak4sh" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="50"/>
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,react,js,ts,html,css,tailwind,nodejs,aws,docker,kafka,postgres,nginx,mysql,flutter,git,github,postman,figma,ethereum,ipfs,c,cpp&perline=10" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=slayer-ak4sh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akash's GitHub Stats" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slayer-ak4sh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=slayer-ak4sh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 👨‍💻 Who Am I?
 
 ```java
 class WhoAmI {
-    String user = "Akash Kumar";
-    String currentWork = "Building impactful apps & mastering Java Full Stack";
+    String name = "Akash Kumar";
+    String alias = "DevSlayer";
+    String currentFocus = "Building impactful apps & mastering Java Full Stack";
+    String location = "Ghaziabad, Uttar Pradesh, India 🇮🇳";
 
     String[] hobbies = {
-        "Thinking about new projects",
-        "Watching anime",
-        "Exploring AI tools",
-        "Improving coding skills"
+        "Thinking about new projects 🚀",
+        "Watching anime 🍿",
+        "Exploring AI tools 🤖",
+        "Leveling up coding skills 💻"
     };
-
-    String getCity() {
-        return "India";
-    }
 
     void ambitions() {
         createAmazingProjects();
         becomeTopFullStackAIDeveloper();
-        DSAEnthusiast();
+        masterDSA();
+        contributeToOpenSource();
     }
 }
-
