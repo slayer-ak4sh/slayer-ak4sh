@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Digital_rain_animation_small_letters_clear.gif" alt="Classic Matrix Digital Rain" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Intense Coding Session" width="100%"/>
 
 # नमस्ते (Namaste) <img src="https://raw.githubusercontent.com/Afsoon/Afsoon/master/hello.gif?raw=true" width="50px" />
 
@@ -44,9 +44,9 @@
 ### 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,react,js,ts,html,css,tailwind,nodejs,aws,docker,kafka,postgres,nginx,mysql,flutter,git,github,postman,figma,ethereum,ipfs,c,cpp&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,react,js,ts,html,css,tailwind,nodejs,aws,docker,kafka,postgres,nginx,mysql,flutter,git,github,postman,figma,ethereum,ipfs,c,cpp,bash,githubactions&perline=12" />
   </a>
-</p>
+</p>>
 
 ---
 
