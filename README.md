@@ -19,7 +19,7 @@
 ### 🌟 About Me
 - 🌱 Currently diving deep into **Java Full-Stack Development & System Design**
 - 💬 Ask me about **Java, Spring Boot, React, AI Tools, Startups, or anything tech!**
-- 📫 How to reach me: **kumarakashjuly30@gmail.com**
+- 📫 How to reach me: **akumar.dev2004@gmail.com**
 - ⚡ Fun fact: **Anime + Code = The Perfect Combo 😄** (Currently binge-watching while coding)
 
 <br/>
